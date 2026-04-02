@@ -26,5 +26,5 @@ P14,Parotid,Female,Knockout,9
 S14,Submandibular,Female,Knockout,9
 P19,Parotid,Male,Wild-Type,36
 S19,Submandibular,Male,Wild-Type,36
-P20,Parotid,Female,Knockout,36
-S20,Submandibular,Female,Knockout,36
+P20,Parotid,Male,Knockout,36
+S20,Submandibular,Male,Knockout,36
